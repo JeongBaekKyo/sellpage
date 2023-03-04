@@ -5,13 +5,6 @@ table
 column
 row
 
-# sellpage
-처음 올리는 호스팅 페이지입니다.🪶
-
-table
-column
-row
-
 ## 프로젝트 소개
 
 - 처음해보는 프로젝트입니다.
